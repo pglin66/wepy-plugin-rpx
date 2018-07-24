@@ -1,0 +1,19 @@
+{
+  "name": "wepy-plugin-rpx",
+  "version": "1.0.1",
+  "description": "wepy框架px转rpx插件",
+  "main": "lib/index.js",
+  "keywords": [
+    "rpx",
+    "wepy"
+  ],
+  "author": "pglin66@gmail.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pglin66/wepy-plugin-rpx.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    
+  }
+}
